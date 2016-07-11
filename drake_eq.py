@@ -114,7 +114,7 @@ if __name__ == '__main__':
               'e intenta comunicarse')
         fc = float(input())
         print('Lapso (en años) durante el que una civilización '
-              'inteligente y comunicative puede existir')
+              'inteligente y comunicativa puede existir')
         L = float(input())
 
         # Calcular número de civilizaciones
